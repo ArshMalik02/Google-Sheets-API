@@ -1,3 +1,3 @@
 # Google-Sheets-API
 
-First implementation
+ExpressJS app that helps make edits to a google sheet
